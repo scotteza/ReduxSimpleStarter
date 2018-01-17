@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "__error": "objectItem not found",
+    "README.md": true,
+    "LICENSE.MD": true,
+    ".babelrc": true,
+    ".eslintrc.js": true,
+    ".gitignore": true,
+    "package-lock.json": true,
+    "package.json": true,
+    "webpack.config.js": true,
+    "node_modules": true
+  }
+}
